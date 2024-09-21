@@ -30,3 +30,5 @@
 - Excel for advanced data analysis and visualization.
 - Pivot tables for detailed data summarization.
 - Slicers for interactive filtering and data exploration.
+
+https://github.com/user-attachments/assets/10f6046a-b473-4fb0-a1d3-5dd81e8e4676
